@@ -26,11 +26,11 @@
   background-color: lightgrey;
 
 }
-body{
+body {
   text-align: center;
 }
 
-h1 {
+body h1 {
   color: black;
   background-color: lightgreen;
   border: solid
