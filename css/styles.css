@@ -1,0 +1,37 @@
+.column {
+  width: 300px;
+  background-color: green;
+  float: left;
+  margin: 20px;
+  padding: 20px;
+  border: solid;
+}
+
+#col2 {
+  background-color: yellow;
+}
+
+#col3 {
+  background-color: red;
+}
+
+
+#email {
+  text-align: center;
+}
+
+#contact {
+  text-align: center;
+  border: solid darkgrey;
+  background-color: lightgrey;
+
+}
+body{
+  text-align: center;
+}
+
+h1 {
+  color: black;
+  background-color: lightgreen;
+  border: solid
+}
